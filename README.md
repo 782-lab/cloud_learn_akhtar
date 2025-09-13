@@ -20,5 +20,4 @@ Just like we pay for electricity as we use, similarly in cloud, we *pay only for
 
 
 
-- # hello
 
